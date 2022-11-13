@@ -28,5 +28,5 @@
 }
 .authors-personal-data:hover .btn {
   transform: scale(1.3);
-  transform: scale(110%) rotate(-5deg);
+  transform: rotate(-5deg);
 }
